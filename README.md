@@ -1,9 +1,7 @@
-apriltag
+python_apriltag
 ========
 
-Small modifications/additions to  http://april.eecs.umich.edu/media/apriltag/apriltag-2015-03-18.tgz
-
-Added a new quad detector and a few various speedups.
+Fork of https://github.com/swatbotics/apriltag. Using the latest apriltag repo for core.
 
 ***Please note:*** I am not the maintainer of the pypi package listed at https://pypi.org/project/apriltag/ – GitHub issues filed here reporting problems with that package will be summarily closed. Sorry, I don't have time to support someone else's unofficial package.
 
